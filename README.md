@@ -52,3 +52,4 @@ A Python application that records audio from your microphone and transcribes it 
 # TTS_simple
 # TTS_simple
 # TTS_simple
+# TTS_simple
